@@ -3,7 +3,7 @@
 
 --- 
 
-### 🛠️ Desenvolvido por Marcos Araújo
+### Marcos Araújo
 
 *Engenheiro de Software & Desenvolvedor Full-Stack*
 
